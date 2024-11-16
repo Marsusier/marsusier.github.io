@@ -24,8 +24,12 @@ body {
 
 a {
   color: #fff;
+  text-decoration: none;
   font-family: "Inter", Arial, sans-serif;
-  font-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 *,
