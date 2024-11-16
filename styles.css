@@ -22,6 +22,12 @@ body {
   font-family: "Inter", Arial, sans-serif;
 }
 
+p {
+  color: #fff;
+  font-family: "Inter", Arial, sans-serif;
+  font-decoration: none;
+}
+
 *,
 *::before,
 *::after {
